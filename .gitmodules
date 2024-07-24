@@ -1,0 +1,7 @@
+[submodule "counterBooks"]
+	path = counterBooks
+	url = https://github.com/Vetrash/counterBooks.git
+[submodule "002-console"]
+	path = 002-console
+	url = https://github.com/Vetrash/002-console.git
+	branch = 009-docker-2
